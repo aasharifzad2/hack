@@ -1,6 +1,4 @@
-#heyyy
-#dd
-
+#well (^__^)
 N = input()
 swi = raw_input()
 sem = raw_input()
